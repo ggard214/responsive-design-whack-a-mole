@@ -7,7 +7,7 @@ display: inline-block;
 overflow: hidden;
 }
 
-.wgs__mole-head {
+.wgs__mole-head:not(.wgs__mole-head--whacked) {
 height: 179px;
 width: 188px;
 position: absolute;
